@@ -1,6 +1,6 @@
-#HEADPHONE WEB CLONE WITH HTML
+<h1>HEADPHONE WEB CLONE WITH HTML</h1>
 
-#Some HTML Tag or Element Use inside This Project
+<h3>Some HTML Tag or Element Use inside This Project</h3>
 
 <html>: Defines the beginning and end of an HTML document.
 <head>: Contains meta information about the document, such as the title, links to stylesheets and scripts, and other metadata.
