@@ -8,20 +8,20 @@
 <br>
 <body>: Contains the visible content of the webpage.
 <br>
-h1: Headings that define the importance of a section of content.
+Headings that define the importance of a section of content.
 <br>
-p: Defines a paragraph of text.
+Defines a paragraph of text.
 <br>
-a: Creates a hyperlink to another webpage or a location within the same page.
+Creates a hyperlink to another webpage or a location within the same page.
 <br>
-img: Displays an image on the webpage.
+Displays an image on the webpage.
 <br>
-ul: Creates an unordered of items.
+Creates an unordered of items.
 <br>
-li: Defines a list item within an ordered or unordered list.
+Defines a list item within an ordered or unordered list.
 <br>
-table: Defines a table with rows and columns.
+Defines a table with rows and columns.
 <br>
-tr: Defines a row in a table.
+Defines a row in a table.
 <br>
-td: Defines a cell in a table.
+Defines a cell in a table.
